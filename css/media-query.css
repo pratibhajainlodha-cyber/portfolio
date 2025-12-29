@@ -1,0 +1,933 @@
+@media screen and (max-width:1439px) {
+    .container {
+        width: 1280px;
+    }
+
+}
+
+@media screen and (max-width:1349px) {
+    .container {
+        width: 1140px;
+    }
+
+    .logo {
+        flex: 0 0 180px;
+        max-width: 180px;
+    }
+
+    .bio-pragh {
+        flex: 0 0 500px;
+        max-width: 500px;
+    }
+
+    .main-cv-bio-right {
+        flex: 0 0 412px;
+        max-width: 412px;
+    }
+
+    .work-place-lyf {
+        flex: 0 0 485px;
+        max-width: 485px;
+    }
+
+    .work-place-ryt {
+        flex: 0 0 625px;
+        max-width: 626px;
+
+    }
+
+    .what-cont-right {
+        flex: 0 0 600px;
+    }
+
+    .work-place-lyf {
+        flex: 0 0 428px;
+        max-width: 428px;
+    }
+
+    .what-i-dd {
+        padding: 150px 20px 150px 20px;
+    }
+
+    .disscuss-bio-left {
+        flex: 0 0 450px;
+        max-width: 450px;
+    }
+
+    .disscuss-bio-right p {
+        max-width: 400px;
+    }
+
+    .disscuss-img {
+        margin-bottom: 27px;
+    }
+
+    .png-img-one .png-img {
+        bottom: -39px;
+    }
+
+}
+
+@media screen and (max-width:1199px) {
+    .container {
+        width: 950px;
+    }
+
+    .bio-pragh {
+        flex: 0 0 442px;
+        max-width: 442px;
+    }
+
+    .bio-pragh h1 {
+        font-size: 58px;
+        line-height: 72px;
+    }
+
+    .bio-extra-info {
+        margin: 0 -7px;
+    }
+
+    .main-cv-bio-right h2 {
+        font-weight: 600;
+        font-size: 35px;
+        line-height: 44px;
+    }
+
+    .bio {
+        padding: 90px 0 70px 0;
+    }
+
+    .main-cv-bio {
+        padding: 80px;
+    }
+
+    .main-cv-bio-left {
+        flex: 0 0 371px;
+        max-width: 371px;
+    }
+
+    .png-img {
+        left: 63px;
+    }
+
+    .work-place-ryt {
+        flex: 0 0 520px;
+        max-width: 520px;
+    }
+
+    .bio-extra-info b {
+        font-size: 28px;
+    }
+
+    .extra-info-one {
+        flex: 0 0 calc((100% / 3) - 14px);
+        margin: 0 7px;
+    }
+
+    .main-cv-bio-right p {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .bio-extra-info h6 {
+        font-size: 15px;
+    }
+
+    .work-place-lyf {
+        text-align: center;
+    }
+
+    .work-place-lyf h1 {
+        font-size: 48px;
+        line-height: 66px;
+    }
+
+    .work-place-lyf p {
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .bio-img {
+        flex: 0 0 442px;
+        max-width: 442px;
+    }
+
+    .main-cv-bio-right {
+        flex: 0 0 380px;
+        max-width: 380px;
+    }
+
+
+    .reseach h2 {
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .work-place-ryt p {
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    .work-place-lyf {
+        flex: 0 0 400px;
+        max-width: 400px;
+    }
+
+    .lower-item h2 {
+        font-weight: 550;
+        font-size: 16px;
+        line-height: 22px;
+
+    }
+
+    .pro-det {
+
+        flex: 0 0 calc(100% / 3 - 24px);
+        margin: 0 12px 24px;
+        max-width: 100%;
+    }
+
+    .what-cont-right {
+        flex: 0 0 450px;
+        max-width: 450px;
+    }
+
+    .what-cont-upper {
+        border-radius: 6px;
+        padding: 10px;
+        margin-bottom: 24px;
+        background-color: #fff;
+    }
+
+    .main-work-together h1 {
+        font-weight: 500;
+        font-size: 44px;
+        line-height: 52px;
+    }
+
+    .main-work-together p {
+        font-weight: 350;
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .blog-thory-start h2 {
+        font-weight: 550;
+        font-size: 46px;
+        line-height: 54px;
+    }
+
+    .bio-pragh .gbl-btn {
+        margin-bottom: 83px;
+    }
+
+    .disscuss-bio-left {
+        flex: 0 0 300px;
+        max-width: 300px;
+    }
+
+    .disscuss-bio-right {
+        flex: 0 0 345px;
+        max-width: 345px;
+    }
+
+    .disscuss-bio {
+        padding: 60px;
+        margin-bottom: -34px;
+    }
+}
+
+@media screen and (max-width:991px) {
+
+    .container {
+        width: 750px;
+    }
+
+    .head-content {
+        height: 100px;
+
+    }
+
+    .logo {
+        flex: 0 0 136px;
+        max-width: 136px;
+    }
+
+    .navbar ul li a {
+        font-size: 14px;
+    }
+
+    .navbar ul li {
+        margin-left: 30px;
+    }
+
+    .bio {
+        padding: 50px 0 40px 0;
+    }
+
+    .bio-pragh {
+        flex: 0 0 380px;
+        max-width: 380px;
+    }
+
+    .bio-pragh h1 {
+        font-size: 48px;
+        line-height: 52px;
+        margin-bottom: 10px;
+    }
+
+    .bio-pragh .gbl-btn {
+        margin-bottom: 60px;
+    }
+
+    .bio-extra-info {
+        margin: 0 -5px;
+    }
+
+    .extra-info-one {
+        flex: 0 0 calc((100% / 3) - 10px);
+        margin: 0 5px;
+    }
+
+    .bio-extra-info b {
+        font-size: 20px;
+    }
+
+    .bio-extra-info h6 {
+        font-size: 10px;
+    }
+
+    .bio-img {
+        flex: 0 0 366px;
+        max-width: 366px;
+    }
+
+    .main-cv-bio {
+        padding: 55px;
+    }
+
+    .main-cv-bio-left {
+        flex: 0 0 340px;
+        max-width: 340px;
+        padding: 20px;
+    }
+
+    .png-img {
+        left: 50px;
+    }
+
+    .png-img ul li {
+        width: 44px;
+        height: 52px;
+    }
+
+    .main-cv-bio-right {
+        flex: 0 0 340px;
+        max-width: 340px;
+    }
+
+    .main-cv-bio-right h2 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+
+    .main-cv-bio-right p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .work-place {
+        padding: 100px 0;
+    }
+
+    .work-place-lyf {
+        flex: 0 0 280px;
+        max-width: 280px;
+    }
+
+    .work-place-lyf h1 {
+        font-size: 44px;
+        line-height: 58px;
+    }
+
+    .work-place-lyf p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .work-place-ryt {
+        flex: 0 0 480px;
+        max-width: 480px;
+    }
+
+    .reseach {
+        flex: 0 0 calc(100% / 2 - 20px);
+        margin: 0 10px;
+        margin-bottom: 24px;
+        padding: 26px;
+    }
+
+    .img-src {
+        border-radius: 6px;
+        width: 60px;
+        height: 60px;
+        margin-bottom: 28px;
+    }
+
+    .reseach h2 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .work-place-ryt p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .lower-item .glb-downlode {
+        background-position: right 25px center;
+        padding: 0 40px 0 20px;
+        background-size: 10px 10px;
+        margin-left: 0px;
+    }
+
+    .pro-pur {
+        padding: 70px 0px 70px 0px;
+    }
+
+    .prot-foil h1 {
+        font-size: 45px;
+        line-height: 50px;
+    }
+
+    .prot-foil p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .purchase-item {
+        margin: 0 -10px;
+    }
+
+    .pro-det {
+        flex: 0 0 calc(100% / 3 - 20px);
+        margin: 0 10px 20px;
+        max-width: 100%;
+    }
+
+    .multi-color-img {
+        height: 224px;
+    }
+
+    .lower-item {
+        margin: 28px;
+    }
+
+    .lower-item span {
+        font-size: 10px;
+        line-height: 14px;
+    }
+
+    .lower-item h2 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .lower-item p {
+        font-size: 12px;
+        margin-bottom: 16px;
+    }
+
+    .pro-pur .more-pro {
+        padding: 40px 0px 0px 0px;
+    }
+
+    .work-together {
+        padding: 80px 0px 80px 0px;
+        background-color: #132238;
+    }
+
+    .main-work-together h1 {
+        font-size: 40px;
+        line-height: 46px;
+    }
+
+    .main-work-together p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .main-work-together .glb-downlode {
+        padding: 0 48px 0 16px;
+        background-size: 10px 10px;
+    }
+
+    .blog-sec {
+        padding: 70px 0px 110px 0px;
+    }
+
+    .blog-thory-start h2 {
+        font-size: 42px;
+        line-height: 50px;
+    }
+
+    .blog-thory-start p {
+        line-height: 20px;
+        max-width: 500px;
+        margin: 0 auto 58px;
+    }
+
+    .blog-imgs {
+        margin: 0 -10px;
+    }
+
+    .blog-itm {
+        flex: 0 0 calc(100% / 4 - 20px);
+        margin: 0 10px;
+    }
+
+    .blog-img-pur {
+        height: 200px;
+    }
+
+    .blog-down-thory {
+        padding: 20px;
+        box-shadow: 0 0 14px 7px #1C19191F;
+    }
+
+    .blog-down-thory span {
+        font-size: 12px;
+        line-height: 18px;
+        margin-bottom: 6px;
+    }
+
+    .blog-down-thory h4 {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .what-i-dd {
+        padding: 120px 15px 120px 15px;
+    }
+
+    .work-place-lyf {
+        flex: 0 0 250px;
+        max-width: 250px;
+    }
+
+    .work-place-lyf h1 {
+        font-size: 40px;
+        line-height: 54px;
+    }
+
+    .work-place-lyf p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .what-cont-right {
+        flex: 0 0 420px;
+        max-width: 420px;
+    }
+
+    .what-cont-upper {
+        border-radius: 5px;
+        padding: 8px;
+        margin-bottom: 22px;
+    }
+
+    .what-cont-right h4 {
+        font-size: 20px;
+        margin-bottom: 14px;
+    }
+
+    .what-cont-right p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .Testimonial {
+        padding: 80px 0px 0px 0px;
+    }
+
+    .Testimonial-bio {
+        margin-bottom: 120px;
+    }
+
+    .Testimonial-head h2 {
+        font-size: 44px;
+        line-height: 52px;
+        margin-bottom: 20px;
+    }
+
+    .Testimonial-head span {
+        font-size: 16px;
+        line-height: 22px;
+        margin: 0 auto 50px;
+    }
+
+    .Testimonial-bio p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .Testimonial-bio h5 {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 7px;
+    }
+
+    .Testimonial-bio h6 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .disscuss-bio {
+        padding: 48px;
+        margin-bottom: -30px;
+    }
+
+    .disscuss-bio-left {
+        flex: 0 0 280px;
+        max-width: 280px;
+    }
+
+    .disscuss-bio-left h3 {
+        font-size: 34px;
+        line-height: 46px;
+        margin-bottom: 14px;
+    }
+
+    .disscuss-bio-left p {
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 25px;
+    }
+
+    .disscuss-img {
+        margin-bottom: 23px;
+    }
+
+    .disscuss-img .img-src {
+        width: 40px;
+        height: 40px;
+    }
+
+    .disscuss-img-down span {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .disscuss-img-down h5 {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .png-img ul li {
+        width: 40px;
+        height: 48px;
+    }
+
+    .disscuss-bio-right {
+        flex: 0 0 330px;
+        max-width: 330px;
+    }
+
+    .disscuss-bio-right p {
+        max-width: 330px;
+    }
+
+    form input:last-child {
+        margin-bottom: 40px;
+    }
+
+    .glb-sub .glb-downlode {
+        padding: 0 50px 0 20px;
+    }
+
+    .ddgh {
+        padding: 70px 0px 70px 0px;
+    }
+
+    .logo {
+        flex: 0 0 126px;
+        max-width: 126px;
+    }
+
+    .navbar-one li a {
+        margin-left: 10px;
+    }
+
+    .more-pro {
+        display: flex;
+        justify-content: center;
+    }
+
+    .main-cv-bio-right .glb-downlode {
+        margin-left: 12px;
+        padding: 0 20px 0 50px;
+    }
+
+    .main-cv-bio-right .glb-downlode {
+        background-position: left 16px center;
+    }
+
+    .gbl-btn {
+        font-size: 15px;
+        line-height: 45px;
+        padding: 0 22px;
+    }
+}
+
+
+@media screen and (max-width:767px) {
+    .container {
+        width: 100%;
+        padding: 0 15px;
+    }
+    .bio-pragh h1 {
+        font-size: 50px;
+        text-align: center;
+    }
+    .head-content {
+        justify-content: center;
+    }
+    .navbar ul {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .bio {
+        padding: 40px 0 32px 0;
+    }
+    .bio-content {
+        flex-direction: column;
+        align-items: center;
+    }
+    .bio-pragh,
+    .bio-img,
+    .main-cv-bio-left,
+    .main-cv-bio-right,
+    .work-place-lyf,
+    .logo {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .bio-pragh {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+    .main-cv-bio {
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .main-cv-bio-left {
+        margin-bottom: 50px;
+    }
+    .work-place-bio {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .cont-what-i-d {
+        justify-content: center;
+        flex-direction: column;
+    }
+    .disscuss-bio {
+        padding: 88px;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .disscuss-bio-left {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 75px;
+
+    }
+    .work-place {
+        padding: 90px 0;
+    }
+    .main-cv-bio-right p {
+        font-size: 19px;
+        line-height: 25px;
+    }
+    .work-place-lyf p {
+        font-size: 19px;
+        line-height: 25px;
+    }
+    .reseach h2 {
+        font-size: 21px;
+        line-height: 25px;
+    }
+    .work-place-ryt p {
+        font-size: 19px;
+        line-height: 25px;
+    }
+    .lower-item span {
+        font-size: 16px;
+        line-height: 15px;
+    }
+    .lower-item h2 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .lower-item p {
+        font-size: 18px;
+        margin-bottom: 19px;
+    }
+    .main-work-together p {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .blog-down-thory span {
+        font-size: 16px;
+        line-height: 20px;
+        margin-bottom: 6px;
+    }
+    .blog-down-thory h4 {
+        font-size: 19px;
+        line-height: 20px;
+    }
+    .what-cont-right h4 {
+        font-size: 23px;
+        margin-bottom: 14px;
+    }
+    .what-cont-right p {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .Testimonial-bio p {
+        font-size: 19px;
+        line-height: 23px;
+    }
+    .Testimonial-bio h5 {
+        font-size: 18px;
+        line-height: 24px;
+        margin-bottom: 7px;
+    }
+    .Testimonial-bio h6 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .disscuss-bio-left p {
+        font-size: 20px;
+        line-height: 25px;
+        margin-bottom: 25px;
+    }
+    .bio-extra-info h6 {
+        font-size: 15px;
+    }
+    .bio-extra-info b {
+        font-size: 28px;
+    }
+    .head-content-one {
+        flex-direction: column;
+    }
+    .ham-bar {
+        display: block;
+        margin-right: 20px;
+    }
+    .navbar {
+        position: absolute;
+        background-color: #fff;
+        left: -120%;
+        top: 100%;
+        width: 100%;
+        padding-block: 20px;
+        transition: 0.2s ease-in-out;
+    }
+    .navbar.active {
+        left: 0;
+    }
+    .navbar ul li {
+        margin-bottom: 20px;
+    }
+    .pro-det {
+    flex: 0 0 calc(100% / 1 - 10px);
+    margin: 0 5px 10px;
+    max-width: 100%;
+}
+}
+@media screen and (max-width:479px) {
+    .container {
+        width: 100%;
+        padding: 0 15px;
+    }
+    .head-content {
+    justify-content: space-between;
+}
+    .logo {
+    flex: 0 0 190px;
+    max-width: 190px;
+}
+.disscuss-bio {
+    padding: 19px;
+}
+.ddgh {
+    padding: 44px 0px 30px 0px;
+}
+.logo {
+    flex: 0 0 130px;
+    max-width: 130px;
+}
+.navbar-one li a {
+    margin-left: 5px;
+    font-size: 12px;
+}
+.copy-ryt {
+    font-size: 16px;
+}
+.logo {
+    flex: 0 0 80px;
+    max-width: 124px;
+}
+.navbar-one ul {
+    margin-bottom: 20px;
+}
+.reseach {
+    flex: 0 0 calc(100% / 1 - 10px);
+    margin: 0 5px;
+    margin-bottom: 24px;
+    padding: 13px;
+}
+.reseach.resch-design {
+    margin-bottom: 22px;
+}
+.work-place {
+    padding: 80px 0;
+}
+
+.gbl-btn {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.main-cv-bio-right .glb-downlode {
+    width: 100%;
+    text-align: center;
+}
+.png-img {
+    bottom: -11px;
+    padding: 14px;
+}
+.png-img ul li {
+    width: 26px;
+    height: 26px;
+}
+.png-img {
+    left: 43px;
+}
+.head-content {
+    height: 70px;
+}
+.bio-pragh .gbl-btn {
+    margin-bottom: 40px;
+}
+.pro-btn {
+    flex-direction: column;
+}
+
+}
