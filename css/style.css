@@ -316,10 +316,9 @@ p {
 .bio-content {
     display: flex;
     margin: 0 auto;
-    align-items: flex-end;
+    align-items: center;
     justify-content: space-between;
 }
-
 /* work place start here  */
 .work-place {
     background-color: #F0F1F3;
